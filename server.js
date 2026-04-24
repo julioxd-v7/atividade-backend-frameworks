@@ -15,3 +15,5 @@ app.get('/api/teste', (req, res) => {
 app.listen(3000, () => {
     console.log('Servidor rodando em http://localhost:3000');
 });
+
+//teste git// teste git
